@@ -3,6 +3,7 @@ title:  "Hi there!"
 date:   2016-03-23 20:04:23
 categories: [random]
 tags: [random]
+layout: post
 ---
 
 This is my personal website and blog. Soon you will find here posts related to development, design and other nice stuff.
