@@ -1,0 +1,15 @@
+---
+title:  "Hi there!"
+date:   2016-03-23 20:04:23
+categories: [random]
+tags: [random]
+---
+
+This is my personal website and blog. Soon you will find here posts related to development, design and other nice stuff.
+
+Please, check out my [Github][github] and [LinkedIn][linkedin] until new posts get done.
+
+See ya!
+
+[github]: https://www.github.com/obetoferreira
+[linkedin]: https://www.linkedin.com/in/obetoferreira

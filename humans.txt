@@ -1,0 +1,11 @@
+/* TEAM */
+Developer & Designer: Beto Ferreira
+Twitter: @obetoferreira
+Site: http://obetoferreira.github.io
+Location: Belo Horizonte, MG, Brazil
+
+/* SITE */
+Last update: 2016/02/10
+Standards: HTML5, CSS3
+Components: Jekyll
+Software: Sublime Text, Photoshop
