@@ -1,8 +1,8 @@
 # Site settings
 title: 'Beto Ferreira'
 description: 'Front-end Developer + UI/UX Engineer'
-url: 'http://obetoferreira.github.io'
-# baseurl: ''
+url: 'http://obetoferreira.github.io/'
+baseurl: site.github.url
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
