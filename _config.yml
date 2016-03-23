@@ -2,7 +2,7 @@
 title: 'Beto Ferreira'
 description: 'Front-end Developer + UI/UX Engineer'
 url: 'http://obetoferreira.github.io'
-baseurl: '/obetoferreira/'
+baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
@@ -28,6 +28,8 @@ paginate: 10
 permalink: /:year/:title/
 markdown: kramdown
 highlighter: rouge
+
+github: [metadata]
 
 kramdown:
   # use Github Flavored Markdown
